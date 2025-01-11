@@ -46,4 +46,4 @@ chmod 777 /pub
 
 echo "Permissões criadas!"
 
-echo "\nSCRIPT FINALIZADO!"
+echo "SCRIPT FINALIZADO!"
